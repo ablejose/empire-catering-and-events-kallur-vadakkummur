@@ -1,0 +1,58 @@
+{
+  "slug": "empire-catering-and-events-kallur-vadakkummur",
+  "name": "Empire Catering & Events",
+  "shortName": "Empire",
+  "descriptor": "Catering & Events",
+  "address": "PALAYAMPARAMBU P.O PIN, Kallur Vadakkummuri, Keralam 680741",
+  "city": "Kallur Vadakkummuri",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680741",
+  "geo": {
+    "lat": 10.2584456,
+    "lng": 76.2923584
+  },
+  "mapsLink": "https://maps.google.com/?cid=9165631192618086518",
+  "phone": "+91 89436 33417",
+  "whatsapp": "918943633417",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.7,
+  "reviewCount": 70,
+  "reviews": [
+    {
+      "name": "Sophy George",
+      "rating": 5,
+      "quote": "Best caterers ever experienced. Used them twice for family functions. They never compromise on quality. Approachable and always helps us to select the best dishes. Still receiving calls with compliments from those whom we supplied food through them. Not only food but the full event management."
+    },
+    {
+      "name": "Jubin Paul",
+      "rating": 5,
+      "quote": "Empire Catering did an outstanding job for our wedding event! The food was amazing, and the staff was friendly and efficient. We received countless compliments from our guests, and we couldn't be happier with the service."
+    },
+    {
+      "name": "Andrea Babu",
+      "rating": 5,
+      "quote": "Had an amazing experience with Empire for my betrothal! Exceptional professionalism, delicious food, stunning decor, and flawless organization. A special thanks to Ajith Chettan for his dedication and thoughtful approach – it made all the difference. Highly recommend this team for a stress-free, outstanding event."
+    },
+    {
+      "name": "SHiNTOS",
+      "rating": 5,
+      "quote": "The team at Empire Catering, especially Ajith Anto, was incredibly friendly and supportive, assisting me with various aspects of my wedding beyond just catering. The food was exceptional and of the highest quality."
+    },
+    {
+      "name": "ANJU ROSE",
+      "rating": 5,
+      "quote": "I had a wonderful experience with EMPIRE Caterers & Events. Ajith's personalised attention was very helpful to meet my specific needs on my wedding day. They handled all aspects of our wedding, from transportation to decorations and food."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://empire-catering-and-events-kallur-v.vercel.app"
+}
